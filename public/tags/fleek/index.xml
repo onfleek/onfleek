@@ -3,18 +3,36 @@
   <channel>
       <title>Fleek on On Fleek </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://localhost:1313/tags/fleek/</link>
+    <link>http://onfleek.info/tags/fleek/</link>
     <language>en-us</language>
     
     
-    <updated>Mon, 27 Apr 2015 00:00:00 UTC</updated>
+    <updated>Tue, 28 Apr 2015 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Hairy Erik is on FLEEK</title>
+      <link>http://onfleek.info/post/hairy-erik-on-fleek/</link>
+      <pubDate>Tue, 28 Apr 2015 00:00:00 UTC</pubDate>
+      
+      <guid>http://onfleek.info/post/hairy-erik-on-fleek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hairy Erik is on FLEEK</title>
+      <link>http://onfleek.info/post/hairy-erik-on-fleek/</link>
+      <pubDate>Tue, 28 Apr 2015 00:00:00 UTC</pubDate>
+      
+      <guid>http://onfleek.info/post/hairy-erik-on-fleek/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Gosling is always on fleek</title>
-      <link>http://localhost:1313/post/gosling-on-sleek/</link>
+      <link>http://onfleek.info/post/gosling-on-sleek/</link>
       <pubDate>Mon, 27 Apr 2015 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:1313/post/gosling-on-sleek/</guid>
+      <guid>http://onfleek.info/post/gosling-on-sleek/</guid>
       <description></description>
     </item>
     
