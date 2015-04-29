@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title> on On Fleek </title>
+      <title>Fleek on On Fleek </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://onfleek.info/</link>
+    <link>http://onfleek.info/tags/fleek/</link>
     <language>en-us</language>
     
     
     <updated>Tue, 28 Apr 2015 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Hairy Erik is on FLEEK</title>
+      <link>http://onfleek.info/post/hairy-erik-on-fleek/</link>
+      <pubDate>Tue, 28 Apr 2015 00:00:00 UTC</pubDate>
+      
+      <guid>http://onfleek.info/post/hairy-erik-on-fleek/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hairy Erik is on FLEEK</title>
